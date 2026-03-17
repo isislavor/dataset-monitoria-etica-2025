@@ -6,16 +6,6 @@ O projeto foi desenvolvido na disciplina de **Ética Profissional** dos cursos d
 
 O objetivo do repositório é garantir **transparência, reprodutibilidade e abertura dos dados**, disponibilizando os materiais utilizados na aplicação da atividade pedagógica e no processo de análise dos resultados.
 
-## Conteúdo do repositório
-
-O repositório está organizado da seguinte forma:
-
-- `data/raw/` – respostas brutas exportadas do Google Forms
-- `data/processed/` – dados tratados utilizados nas análises
-- `scripts/` – scripts em Python utilizados no processamento e visualização dos dados
-- `results/figures/` – gráficos utilizados na análise dos resultados
-- `docs/` – documentação metodológica da análise
-
 ## Ferramentas utilizadas
 
 A análise foi realizada em Python utilizando:
