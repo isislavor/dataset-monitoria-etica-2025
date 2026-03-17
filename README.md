@@ -6,6 +6,8 @@ O projeto foi desenvolvido na disciplina de **Ética Profissional** dos cursos d
 
 O objetivo do repositório é garantir **transparência, reprodutibilidade e abertura dos dados**, disponibilizando os materiais utilizados na aplicação da atividade pedagógica e no processo de análise dos resultados.
 
+VIDEO EXPLICATIVO DA ATIVIDADE PRODUZIDA: https://www.youtube.com/watch?v=3DqYOJvwPX4
+
 ## Ferramentas utilizadas
 
 A análise foi realizada em Python utilizando:
